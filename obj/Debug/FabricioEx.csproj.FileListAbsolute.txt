@@ -1,0 +1,8 @@
+C:\Users\samue\source\repos\FabricioEx\bin\Debug\FabricioEx.exe.config
+C:\Users\samue\source\repos\FabricioEx\bin\Debug\FabricioEx.exe
+C:\Users\samue\source\repos\FabricioEx\bin\Debug\FabricioEx.pdb
+C:\Users\samue\source\repos\FabricioEx\obj\Debug\FabricioEx.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\FabricioEx\obj\Debug\FabricioEx.csproj.ResolveComReference.cache
+C:\Users\samue\source\repos\FabricioEx\obj\Debug\FabricioEx.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\FabricioEx\obj\Debug\FabricioEx.exe
+C:\Users\samue\source\repos\FabricioEx\obj\Debug\FabricioEx.pdb
